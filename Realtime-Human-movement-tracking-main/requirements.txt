@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+imutils
+tensorflow  # Remove if not using deep learning
+torch       # Remove if not using PyTorch
+scipy
+pandas
